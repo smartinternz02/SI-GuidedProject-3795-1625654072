@@ -1,0 +1,23 @@
+Assignment 1                        (Aaron Richard)
+
+Use cases of IoT:
+1. Smart Homes
+2.Outdoor Surveilence 
+3. Effecient Waste Management System
+4. Self-driven Cars
+5. Smart Grid
+6. Efficient Farming System
+7. Telehealth
+8. IoT Retail Shop
+9. Food Safety and Consumer Transparency in field of food and beverages.
+10. Traffic Management
+11. Vehicle Tracking System
+12. Water Supply and Water quality management
+13. Smart factory equipments
+14. High-Speed Wirelesss Internet
+15. Noise monitoring
+16. NFC Payments
+17. Motion Detection and enhanced security systems
+18. Flood Alerts
+19. Platooning
+20. Biometric cybersecurity scanners
